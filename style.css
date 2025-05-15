@@ -61,7 +61,7 @@ header>.interface {
 header a {
     color: #00FF08;
     text-decoration: none;
-    display: inline-block;
+   /* display: inline-block;*/
     transition: .2s;
 }
 
